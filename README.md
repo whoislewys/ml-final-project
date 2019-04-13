@@ -1,14 +1,9 @@
 # ml-final-project
 
-## Environment
-conda create --file env.yml
+## Setup Environment
+install miniconda
+`conda env create -n ml`
+`conda install pip`
+activate the environment (e.g `source activate ml`)
+`pip install -r requirements.txt`
 
-## Packges
-* Python 3.7.2
-* XGBoost
-* scikit-learn
-* tensorflow
-* keras
-* matplotlib
-* jupyter
-* pandas
