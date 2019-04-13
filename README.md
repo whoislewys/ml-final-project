@@ -1,12 +1,7 @@
 # ml-final-project
 
-## Win Environment
-XGBoost installation is different on windows. Run this command to install the environment on Windows.
-``conda env create -f win-env.ym``
-
-## Mac/Linux Environment
-https://www.youtube.com/watch?v=KnsiZOJjfUg
-
+## Environment
+conda create --file env.yml
 
 ## Packges
 * Python 3.7.2
