@@ -6,3 +6,14 @@ XGBoost installation is different on windows. Run this command to install the en
 
 ## Mac/Linux Environment
 https://www.youtube.com/watch?v=KnsiZOJjfUg
+
+
+## Packges
+* Python 3.7.2
+* XGBoost
+* scikit-learn
+* tensorflow
+* keras
+* matplotlib
+* jupyter
+* pandas
