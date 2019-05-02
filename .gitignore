@@ -1,3 +1,5 @@
 .idea
 stack-overflow*
 *.csv
+*MACOSX*
+*.~lock*
