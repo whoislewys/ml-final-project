@@ -2,4 +2,4 @@ scikit-learn
 jupyter
 pandas
 matplotlib
-pydotplusdd
+pydotplus
